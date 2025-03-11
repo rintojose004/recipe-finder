@@ -1,0 +1,17 @@
+.link {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: black;
+  transition: 0.3s ease;
+}
+.activeLink {
+  color: #073fff;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.link:hover {
+  transform: scale(1.05);
+}
